@@ -1,0 +1,9 @@
+Choose a category:
+1. Temperature
+2. Length
+3. Weight
+4. Exit
+Enter option: 1
+Enter temperature: 37
+Convert from (C/F): C
+37°C = 98.60°F
